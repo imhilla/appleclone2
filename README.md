@@ -4,7 +4,7 @@ In this project i cloned the website of one of the most design-forward companies
 Here's the old version website https://web.archive.org/web/20140301004610/http://www.apple.com/
 
 Here's the screenshot
-![Alt text](/img/appleclone2.PNG?raw=true "Optional Title")
+![Alt text](/img/appleclone.PNG?raw=true "Optional Title")
 
 Here's a live link
 https://raw.githack.com/imhilla/appleclone2/feature/index.html
